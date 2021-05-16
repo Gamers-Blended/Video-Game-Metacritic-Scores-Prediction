@@ -20,7 +20,7 @@ Data is processed with pandas, numpy and Abstract Syntax Trees (ast).
 
 ## Part 3: Video Game Data Analysis
 Investigate the dataset to derive insights on the most popular games, genres, trends, etc. <br>
-Data is visualised using matplotlib, seaborn, plotly and workcloud.
+Data is visualised using matplotlib, seaborn, plotly and wordcloud.
 
 ## Part 4: Preprocessing Dataset for Prediction
 Prepare the cleaned dataset as an input for machine learning models. <br>
