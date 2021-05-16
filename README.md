@@ -26,12 +26,12 @@ Specifically, the platforms, genres and tags columns (containing lists) are proc
 - Platform families are grouped together with numpy
 - Tags are cross-checked with [the tags scrapped from Steam](https://store.steampowered.com/tag/browse/#global_4305) with fuzzywuzzy and BeautifulSoup
 
-These 3 information will be used as features in the predictive models. <br>
+These 3 pieces of information will be used as features in the predictive models. <br>
 The train and test sets are then generated with sklearn. <br>
 A simple prediction test using the Logistic Regression is made as well.
 
 ## Part 5: Predictive Models Results - Regression
-The following models are used, along with their respective RMSE on the test set:
+The following regression models are used, along with their respective RMSE on the test set:
 
 | Model                        | Test RMSE           |
 | ---------------------------- |:-------------------:|
