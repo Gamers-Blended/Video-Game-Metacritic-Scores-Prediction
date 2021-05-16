@@ -1,5 +1,5 @@
 # Video-Game-Metacritic-Scores-Prediction
- An attempt to predict Metacritic scores using several machine learning models. <br>
+ An attempt to predict Metacritic scores of video games using several machine learning models in Python. <br>
  
  ## Contents
  1. Gathering Data from RWAG API
@@ -22,15 +22,16 @@ Data is visualised using matplotlib, seaborn, plotly and workcloud.
 
 ## Part 4: Preprocessing Dataset for Prediction
 Prepare the cleaned dataset as an input for machine learning models. <br>
-Specifically, the platforms, genres and tags columns (contain lists) are processed into binary columns:
+Specifically, the platforms, genres and tags columns (containing lists) are processed into binary columns:
 - Platform families are grouped together with numpy
 - Tags are cross-checked with [the tags scrapped from Steam](https://store.steampowered.com/tag/browse/#global_4305) with fuzzywuzzy and BeautifulSoup
-- 
-A train and test set are then generated with sklearn. <br>
-A simple prediction using Logistic Regression is made as well
+
+These 3 information will be used as features in the predictive models. <br>
+The train and test sets are then generated with sklearn. <br>
+A simple prediction test using the Logistic Regression is made as well.
 
 ## Part 5: Predictive Models Results - Regression
-The following models are used, along with their respective RMSE:
+The following models are used, along with their respective RMSE on the test set:
 
 | Model                        | Test RMSE           |
 | ---------------------------- |:-------------------:|
@@ -45,11 +46,10 @@ The following models are used, along with their respective RMSE:
 | XGBoost Regressor            | 28.081992487362925  |
 | Ridge Regression             | 9.877904001325112   |
 
-Optimisation is also used to fine-tune the parameters of the models. Furthermore, the [pycaret library](https://pycaret.org/) is also used as well:
+Optimisation is been attempted to fine-tune the parameters of the models. Furthermore, the [pycaret library](https://pycaret.org/) is also used as well:
 
 | Model                        | Test RMSE (with GridSearch)| Test RMSE (Base)   | Absolute Error   |
 | ---------------------------- |:--------------------------:|:------------------:| -----------------|
 | Random Forest Regressor      | 9.487118217587387          | 9.547566374653456  | 7.317760953625915|
 | Support Vector Machine       | 9.857068901488233          | 9.516711070354274  | 7.132888084897704|
 | PyCaret                      | -                          | 9.815711126761942  | 7.570090718963135|
-
