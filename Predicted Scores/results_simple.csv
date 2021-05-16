@@ -1,0 +1,657 @@
+,name,metacritic,Predicted Metacritic Score,absolute_error,relative_error
+0,Resident Evil Outbreak: File 2,58.0,74.0,16.0,-16.0
+1,MASSIVE CHALICE,73.0,73.0,0.0,0.0
+2,Fahrenheit (Indigo Prophecy),85.0,72.0,13.0,13.0
+3,Dragon Age: Origins - Ultimate Edition,88.0,61.0,27.0,27.0
+4,Stories: The Path of Destinies,74.0,73.0,1.0,1.0
+5,Q.U.B.E. 2,75.0,72.0,3.0,3.0
+6,Eagle Flight,74.0,66.0,8.0,8.0
+7,The Elder Scrolls V: Skyrim,94.0,77.0,17.0,17.0
+8,Forza Motorsport 7,84.0,81.0,3.0,3.0
+9,Sacred Citadel,61.0,83.0,22.0,-22.0
+10,Subject 13,59.0,77.0,18.0,-18.0
+11,Road Not Taken,75.0,79.0,4.0,-4.0
+12,Divinity: Original Sin - Enhanced Edition,94.0,74.0,20.0,20.0
+13,Red Dead Revolver,73.0,89.0,16.0,-16.0
+14,LUFTRAUSERS,80.0,83.0,3.0,-3.0
+15,WRC Powerslide,60.0,80.0,20.0,-20.0
+16,NieR:Automata Game of the YoRHa Edition,91.0,86.0,5.0,5.0
+17,KILL la KILL - IF,66.0,82.0,16.0,-16.0
+18,Intrusion 2,80.0,76.0,4.0,4.0
+19,Fate of the World,70.0,77.0,7.0,-7.0
+20,Project CARS 2,86.0,83.0,3.0,3.0
+21,The Moment of Silence,70.0,69.0,1.0,1.0
+22,Perimeter 2: New Earth,43.0,77.0,34.0,-34.0
+23,Devil May Cry 4,78.0,76.0,2.0,2.0
+24,Antihero,81.0,76.0,5.0,5.0
+25,The Silver Case,67.0,81.0,14.0,-14.0
+26,The Awesome Adventures of Captain Spirit,77.0,88.0,11.0,-11.0
+27,Bloodborne,92.0,91.0,1.0,1.0
+28,nail'd,69.0,83.0,14.0,-14.0
+29,Penumbra: Requiem,67.0,75.0,8.0,-8.0
+30,Dark Souls II: Scholar of the First Sin,79.0,84.0,5.0,-5.0
+31,Fallen Enchantress: Legendary Heroes,80.0,65.0,15.0,15.0
+32,Ticket to Ride,91.0,76.0,15.0,15.0
+33,Reign: Conflict of Nations,60.0,73.0,13.0,-13.0
+34,Beat Cop,71.0,79.0,8.0,-8.0
+35,Dante's Inferno,75.0,86.0,11.0,-11.0
+36,Alone With You,75.0,67.0,8.0,8.0
+37,Tom Clancy's Ghost Recon: Advanced Warfighter,85.0,82.0,3.0,3.0
+38,The Red Solstice,74.0,68.0,6.0,6.0
+39,Spyro Reignited Trilogy,80.0,70.0,10.0,10.0
+40,"Pokémon Diamond, Pearl",85.0,81.0,4.0,4.0
+41,Outward,65.0,76.0,11.0,-11.0
+42,Candle: The Power of the Flame,80.0,70.0,10.0,10.0
+43,A Way Out,78.0,89.0,11.0,-11.0
+44,Final Fantasy X-2,85.0,81.0,4.0,4.0
+45,Final Fantasy VII Remake,87.0,87.0,0.0,0.0
+46,Sayonara Wild Hearts,85.0,75.0,10.0,10.0
+47,Ace Combat 5: The Unsung War,84.0,80.0,4.0,4.0
+48,MacGuffin's Curse,73.0,65.0,8.0,8.0
+49,Destiny 2: Warmind,64.0,77.0,13.0,-13.0
+50,EA SPORTS FIFA 17,85.0,82.0,3.0,3.0
+51,Ship Simulator Extremes,49.0,67.0,18.0,-18.0
+52,Only If,39.0,75.0,36.0,-36.0
+53,The Sims,88.0,80.0,8.0,8.0
+54,Resonance,76.0,76.0,0.0,0.0
+55,Dangerous High School Girls in Trouble!,81.0,81.0,0.0,0.0
+56,Seven: The Days Long Gone,68.0,74.0,6.0,-6.0
+57,"Pokémon Alpha Sapphire, Omega Ruby",83.0,81.0,2.0,2.0
+58,Iron Warriors: T - 72 Tank Command,56.0,81.0,25.0,-25.0
+59,Metal Gear Solid,88.0,69.0,19.0,19.0
+60,HOARD,65.0,73.0,8.0,-8.0
+61,Apotheon,78.0,76.0,2.0,2.0
+62,S.T.A.L.K.E.R.: Call of Pripyat,80.0,91.0,11.0,-11.0
+63,LEGO Batman 2 DC Super Heroes,75.0,80.0,5.0,-5.0
+64,GNOG,76.0,70.0,6.0,6.0
+65,BioShock Infinite: Burial at Sea - Episode One,71.0,80.0,9.0,-9.0
+66,Burnout 3: Takedown,94.0,86.0,8.0,8.0
+67,Killzone,70.0,81.0,11.0,-11.0
+68,Skyshine's BEDLAM,67.0,72.0,5.0,-5.0
+69,WORLD OF WARSHIPS: LEGENDS,82.0,90.0,8.0,-8.0
+70,Call of Juarez: The Cartel,51.0,66.0,15.0,-15.0
+71,Strong Bad's Cool Game for Attractive People,82.0,70.0,12.0,12.0
+72,Divinity: Dragon Commander,76.0,80.0,4.0,-4.0
+73,The Lost Crown: A Ghosthunting Adventure,71.0,80.0,9.0,-9.0
+74,Final Fantasy XV: Episode Prompto,65.0,66.0,1.0,-1.0
+75,Starlink: Battle for Atlas,74.0,59.0,15.0,15.0
+76,Rayman Raving Rabbids,58.0,72.0,14.0,-14.0
+77,Fire Emblem: Path of Radiance,85.0,75.0,10.0,10.0
+78,XCOM: Chimera Squad,77.0,81.0,4.0,-4.0
+79,The Witness,87.0,82.0,5.0,5.0
+80,Perimeter: Emperor's Testament,72.0,77.0,5.0,-5.0
+81,Damnation,41.0,63.0,22.0,-22.0
+82,Cold War,64.0,81.0,17.0,-17.0
+83,Half-Life 2: Update,96.0,81.0,15.0,15.0
+84,Spacebase DF-9,49.0,72.0,23.0,-23.0
+85,Velvet Assassin,61.0,83.0,22.0,-22.0
+86,Battleborn,69.0,72.0,3.0,-3.0
+87,Streets of Rage 4,83.0,80.0,3.0,3.0
+88,Four Last Things,83.0,72.0,11.0,11.0
+89,AquaNox 2: Revelation,59.0,67.0,8.0,-8.0
+90,Croixleur Sigma,56.0,83.0,27.0,-27.0
+91,Owlboy,88.0,82.0,6.0,6.0
+92,The Movies,84.0,73.0,11.0,11.0
+93,Cossacks: Art of War,74.0,66.0,8.0,8.0
+94,LEGO Star Wars - The Complete Saga,77.0,80.0,3.0,-3.0
+95,Trials Rising,81.0,79.0,2.0,2.0
+96,Wargame: Airland Battle,80.0,81.0,1.0,-1.0
+97,FIFA 14,86.0,84.0,2.0,2.0
+98,Phoning Home,61.0,77.0,16.0,-16.0
+99,The Walking Dead: The Final Season,78.0,76.0,2.0,2.0
+100,King Arthur: Fallen Champions,54.0,76.0,22.0,-22.0
+101,Cossacks: Back to War,60.0,78.0,18.0,-18.0
+102,Final Fantasy IX,84.0,90.0,6.0,-6.0
+103,RONIN,70.0,80.0,10.0,-10.0
+104,Broforce,83.0,87.0,4.0,-4.0
+105,Crazy Taxi 2,82.0,87.0,5.0,-5.0
+106,Fallout 3: Point Lookout,79.0,80.0,1.0,-1.0
+107,Toukiden 2,73.0,72.0,1.0,1.0
+108,Eternal Sonata,80.0,89.0,9.0,-9.0
+109,Heroes of Might and Magic V,77.0,65.0,12.0,12.0
+110,Legends of Runeterra,87.0,80.0,7.0,7.0
+111,Warface: Ice Breaker,62.0,75.0,13.0,-13.0
+112,Prototype 2,76.0,72.0,4.0,4.0
+113,Crimsonland,68.0,83.0,15.0,-15.0
+114,The Elder Scrolls V: Skyrim - Hearthfire,62.0,80.0,18.0,-18.0
+115,Slay the Spire,87.0,75.0,12.0,12.0
+116,Dex,62.0,76.0,14.0,-14.0
+117,Styx: Shards of Darkness,72.0,85.0,13.0,-13.0
+118,Bastion,86.0,83.0,3.0,3.0
+119,Super Mario Maker,80.0,88.0,8.0,-8.0
+120,Killzone 2,91.0,81.0,10.0,10.0
+121,The Bug Butcher,81.0,76.0,5.0,5.0
+122,Eurofighter Typhoon,69.0,73.0,4.0,-4.0
+123,Yakuza 4,78.0,79.0,1.0,-1.0
+124,Sonic Adventure 2 Battle,73.0,80.0,7.0,-7.0
+125,Burly Men at Sea,82.0,66.0,16.0,16.0
+126,Rabbids Go Home,78.0,79.0,1.0,-1.0
+127,Through the Woods,63.0,69.0,6.0,-6.0
+128,Fallout 76,51.0,72.0,21.0,-21.0
+129,Prey - Mooncrash,80.0,78.0,2.0,2.0
+130,Lords of the Fallen,73.0,88.0,15.0,-15.0
+131,Star Trek: Bridge Crew,75.0,72.0,3.0,3.0
+132,OlliOlli,78.0,82.0,4.0,-4.0
+133,Natural Selection 2,80.0,65.0,15.0,15.0
+134,Xenonauts,77.0,84.0,7.0,-7.0
+135,The Void,77.0,70.0,7.0,7.0
+136,SkyDrift,73.0,66.0,7.0,7.0
+137,Space Hulk,58.0,76.0,18.0,-18.0
+138,Tokyo Xanadu eX+,75.0,70.0,5.0,5.0
+139,LEGO Indiana Jones: The Original Adventures,78.0,80.0,2.0,-2.0
+140,The Legend of Zelda: Breath of the Wild,97.0,88.0,9.0,9.0
+141,Fire Emblem Warriors,72.0,81.0,9.0,-9.0
+142,GRID (2019),75.0,66.0,9.0,9.0
+143,Baba Is You,86.0,80.0,6.0,6.0
+144,Call of Juarez,72.0,78.0,6.0,-6.0
+145,Need for Speed Rivals,77.0,86.0,9.0,-9.0
+146,Multiwinia,76.0,69.0,7.0,7.0
+147,>observer_,77.0,76.0,1.0,1.0
+148,Insurgency,74.0,77.0,3.0,-3.0
+149,Heavenly Sword,79.0,80.0,1.0,-1.0
+150,Grand Ages: Medieval,63.0,70.0,7.0,-7.0
+151,Watchmen: The End is Nigh,61.0,69.0,8.0,-8.0
+152,Valkyria Chronicles 4,83.0,82.0,1.0,1.0
+153,Starbound,81.0,78.0,3.0,3.0
+154,Sherlock Holmes: The Mystery of the Mummy,61.0,73.0,12.0,-12.0
+155,Greedfall,74.0,66.0,8.0,8.0
+156,Order of Battle: World War II,81.0,63.0,18.0,18.0
+157,Iron Brigade,75.0,66.0,9.0,9.0
+158,Muse Dash,73.0,75.0,2.0,-2.0
+159,Freedom Force vs. the Third Reich,86.0,75.0,11.0,11.0
+160,Killing Floor,72.0,79.0,7.0,-7.0
+161,Need for Speed: Shift,83.0,61.0,22.0,22.0
+162,Hidden Agenda,66.0,90.0,24.0,-24.0
+163,Yoshi's Crafted World,79.0,90.0,11.0,-11.0
+164,Loki,61.0,76.0,15.0,-15.0
+165,The Final Station,76.0,75.0,1.0,1.0
+166,Before the Echo,70.0,75.0,5.0,-5.0
+167,Sonic Generations,77.0,87.0,10.0,-10.0
+168,Dungeon Siege 2,80.0,72.0,8.0,8.0
+169,Dark Devotion,70.0,70.0,0.0,0.0
+170,Dungeons - The Dark Lord,72.0,81.0,9.0,-9.0
+171,Hektor,55.0,70.0,15.0,-15.0
+172,The Novelist,66.0,71.0,5.0,-5.0
+173,FEZ,91.0,72.0,19.0,19.0
+174,Celeste,91.0,81.0,10.0,10.0
+175,Far Cry 3 - Blood Dragon,81.0,68.0,13.0,13.0
+176,World of Warcraft: Legion,88.0,81.0,7.0,7.0
+177,Day of Defeat,79.0,77.0,2.0,2.0
+178,SWAT 4,85.0,81.0,4.0,4.0
+179,I Expect You To Die,76.0,72.0,4.0,4.0
+180,METAL GEAR SOLID V: THE PHANTOM PAIN,91.0,82.0,9.0,9.0
+181,Beijing 2008 - The Official Video Game of the Olympic Games,57.0,79.0,22.0,-22.0
+182,World War III: Black Gold,71.0,86.0,15.0,-15.0
+183,Lost Horizon,77.0,63.0,14.0,14.0
+184,Neverending Nightmares,68.0,72.0,4.0,-4.0
+185,Yaga,70.0,81.0,11.0,-11.0
+186,FINAL FANTASY III,68.0,86.0,18.0,-18.0
+187,Two Worlds,58.0,81.0,23.0,-23.0
+188,ZONE OF THE ENDERS: The 2nd Runner - M∀RS,71.0,54.0,17.0,17.0
+189,Shin Megami Tensei: Persona 3,86.0,80.0,6.0,6.0
+190,Saints Row: The Third Remastered,73.0,80.0,7.0,-7.0
+191,XCOM 2,88.0,79.0,9.0,9.0
+192,The Getaway,72.0,80.0,8.0,-8.0
+193,Scribblenauts Unlimited,75.0,68.0,7.0,7.0
+194,FTL: Faster Than Light,84.0,80.0,4.0,4.0
+195,Kholat,64.0,76.0,12.0,-12.0
+196,Viridi,46.0,77.0,31.0,-31.0
+197,"Warhammer 40,000: Dawn of War II Chaos Rising",85.0,87.0,2.0,-2.0
+198,Mario Kart 8,88.0,88.0,0.0,0.0
+199,World of Warplanes,69.0,80.0,11.0,-11.0
+200,Mosaic,67.0,78.0,11.0,-11.0
+201,The Long Journey Home,68.0,74.0,6.0,-6.0
+202,The Walking Dead: A New Frontier,71.0,66.0,5.0,5.0
+203,Warcraft III: Reforged,59.0,81.0,22.0,-22.0
+204,Brigador,70.0,75.0,5.0,-5.0
+205,Death's Gambit,72.0,84.0,12.0,-12.0
+206,Dead Island,74.0,74.0,0.0,0.0
+207,S.T.A.L.K.E.R.: Shadow of Chernobyl,82.0,76.0,6.0,6.0
+208,Still Life,75.0,70.0,5.0,5.0
+209,Farming Simulator 15,64.0,86.0,22.0,-22.0
+210,Space Channel 5: Part 2,78.0,90.0,12.0,-12.0
+211,Comanche 4,74.0,70.0,4.0,4.0
+212,Catwoman,46.0,76.0,30.0,-30.0
+213,Mirror's Edge,81.0,90.0,9.0,-9.0
+214,Tron 2.0,84.0,89.0,5.0,-5.0
+215,Alien Breed: Impact,64.0,59.0,5.0,5.0
+216,Knack 2,71.0,76.0,5.0,-5.0
+217,Men of War,80.0,77.0,3.0,3.0
+218,Bionic Dues,71.0,66.0,5.0,5.0
+219,ELEX,59.0,70.0,11.0,-11.0
+220,The Book of Unwritten Tales,82.0,75.0,7.0,7.0
+221,Earth 2150 Trilogy,78.0,77.0,1.0,1.0
+222,Half-Life 2: Episode One,87.0,90.0,3.0,-3.0
+223,Rayman Origins,86.0,87.0,1.0,-1.0
+224,We Love Katamari,86.0,85.0,1.0,1.0
+225,Maize,65.0,76.0,11.0,-11.0
+226,Banjo-Kazooie,92.0,90.0,2.0,2.0
+227,Rock of Ages 2: Bigger & Boulder,77.0,74.0,3.0,3.0
+228,FINAL FANTASY IV,87.0,86.0,1.0,1.0
+229,Halcyon 6: Starbase Commander,71.0,74.0,3.0,-3.0
+230,Brothers in Arms: Road to Hill 30,87.0,84.0,3.0,3.0
+231,Sam & Max: Episode 202 - Moai Better Blues,80.0,79.0,1.0,1.0
+232,SteamWorld Dig 2,88.0,81.0,7.0,7.0
+233,Has-Been Heroes,63.0,66.0,3.0,-3.0
+234,Xenoblade Chronicles 3D,86.0,81.0,5.0,5.0
+235,Nancy Drew: The Phantom of Venice,69.0,71.0,2.0,-2.0
+236,BioShock Infinite,94.0,75.0,19.0,19.0
+237,Lightmatter,73.0,75.0,2.0,-2.0
+238,Ninja Pizza Girl,82.0,74.0,8.0,8.0
+239,Headlander,74.0,54.0,20.0,20.0
+240,Nancy Drew: The Creature of Kapu Cave,68.0,71.0,3.0,-3.0
+241,Tiny and Big: Grandpa's Leftovers,75.0,75.0,0.0,0.0
+242,Star Control: Origins,75.0,74.0,1.0,1.0
+243,Lichdom: Battlemage,69.0,77.0,8.0,-8.0
+244,METAL GEAR SOLID V: GROUND ZEROES,80.0,87.0,7.0,-7.0
+245,Dying Light: The Following - Enhanced Edition,87.0,71.0,16.0,16.0
+246,Fire Emblem Heroes,72.0,81.0,9.0,-9.0
+247,FINAL FANTASY VIII,90.0,86.0,4.0,4.0
+248,Cradle,65.0,71.0,6.0,-6.0
+249,Wolcen: Lords of Mayhem,60.0,81.0,21.0,-21.0
+250,Oceanhorn 2: Knights of the Lost Realm,69.0,78.0,9.0,-9.0
+251,The Flame in the Flood,73.0,71.0,2.0,2.0
+252,Forza Motorsport 6,87.0,79.0,8.0,8.0
+253,Ride 2,67.0,68.0,1.0,-1.0
+254,Transformers: The Game,56.0,86.0,30.0,-30.0
+255,Blackguards,68.0,74.0,6.0,-6.0
+256,Wolfenstein: The Old Blood,76.0,72.0,4.0,4.0
+257,Grand Theft Auto IV: Complete Edition,94.0,72.0,22.0,22.0
+258,Men of War: Red Tide,77.0,73.0,4.0,4.0
+259,Kingdom Hearts Re:Chain of Memories,68.0,81.0,13.0,-13.0
+260,Sleeping Dogs,81.0,76.0,5.0,5.0
+261,Fable: The Lost Chapters,83.0,89.0,6.0,-6.0
+262,King Arthur's Gold,81.0,78.0,3.0,3.0
+263,The Dream Machine: Chapter 1 & 2,75.0,75.0,0.0,0.0
+264,Warhammer: End Times - Vermintide,79.0,64.0,15.0,15.0
+265,Rico,60.0,76.0,16.0,-16.0
+266,TimeShift,71.0,89.0,18.0,-18.0
+267,Sonic Mania,85.0,77.0,8.0,8.0
+268,Stories Untold,81.0,79.0,2.0,2.0
+269,Brut@l,66.0,71.0,5.0,-5.0
+270,GoD Factory: Wingmen,76.0,59.0,17.0,17.0
+271,Recettear: An Item Shop's Tale,82.0,73.0,9.0,9.0
+272,Moons of Madness,65.0,72.0,7.0,-7.0
+273,Prey (2006),83.0,59.0,24.0,24.0
+274,Dark Souls III: The Ringed City,83.0,82.0,1.0,1.0
+275,Devil's Hunt,47.0,70.0,23.0,-23.0
+276,Avadon: The Black Fortress,75.0,81.0,6.0,-6.0
+277,Dark Souls III,89.0,89.0,0.0,0.0
+278,Space Hack,63.0,81.0,18.0,-18.0
+279,Cat Quest II,77.0,57.0,20.0,20.0
+280,System Shock,85.0,92.0,7.0,-7.0
+281,Shattered Haven,59.0,79.0,20.0,-20.0
+282,Control,84.0,82.0,2.0,2.0
+283,Steel Storm: Burning Retribution,55.0,76.0,21.0,-21.0
+284,Trine 2: Complete Story,84.0,80.0,4.0,4.0
+285,TurnOn,67.0,78.0,11.0,-11.0
+286,Action Henk,74.0,65.0,9.0,9.0
+287,Jump Force,59.0,81.0,22.0,-22.0
+288,Evil Genius,75.0,86.0,11.0,-11.0
+289,Untitled Goose Game,80.0,74.0,6.0,6.0
+290,Ori and the Blind Forest: Definitive Edition,88.0,88.0,0.0,0.0
+291,LocoRoco,83.0,90.0,7.0,-7.0
+292,UNCHARTED: Drake's Fortune,88.0,78.0,10.0,10.0
+293,Tomb Raider: Underworld,80.0,83.0,3.0,-3.0
+294,Legacy of Kain: Soul Reaver 2,77.0,70.0,7.0,7.0
+295,Thief II: The Metal Age,87.0,92.0,5.0,-5.0
+296,Kraven Manor,58.0,68.0,10.0,-10.0
+297,Knights And Bikes,80.0,81.0,1.0,-1.0
+298,Tom Clancy's Rainbow Six 3 Gold,85.0,80.0,5.0,5.0
+299,The Infectious Madness of Doctor Dekker,78.0,66.0,12.0,12.0
+300,DmC: Devil May Cry: Definitive Edition,83.0,74.0,9.0,9.0
+301,Redeemer,64.0,83.0,19.0,-19.0
+302,The Inner World,72.0,75.0,3.0,-3.0
+303,Tiny Troopers,57.0,74.0,17.0,-17.0
+304,Baldur's Gate: Enhanced Edition,78.0,78.0,0.0,0.0
+305,Rome: Total War - Collection,92.0,82.0,10.0,10.0
+306,Dark Void,57.0,66.0,9.0,-9.0
+307,Onimusha: Warlords,86.0,70.0,16.0,16.0
+308,LEGO Batman,80.0,63.0,17.0,17.0
+309,The Count Lucanor,78.0,80.0,2.0,-2.0
+310,Burnout Revenge,89.0,83.0,6.0,6.0
+311,Chuchel,80.0,79.0,1.0,1.0
+312,"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",80.0,80.0,0.0,0.0
+313,Feudal Alloy,76.0,81.0,5.0,-5.0
+314,The Book of Unwritten Tales 2,80.0,75.0,5.0,5.0
+315,Spate,61.0,59.0,2.0,2.0
+316,Lords of Xulima,71.0,73.0,2.0,-2.0
+317,God Eater 3,72.0,84.0,12.0,-12.0
+318,Hawken,73.0,66.0,7.0,7.0
+319,Fade to Silence,56.0,80.0,24.0,-24.0
+320,Pacific Storm Allies,60.0,73.0,13.0,-13.0
+321,Destiny 2: Shadowkeep,75.0,80.0,5.0,-5.0
+322,Deus Ex: Human Revolution - Director's Cut,91.0,89.0,2.0,2.0
+323,FAR: Lone Sails,84.0,87.0,3.0,-3.0
+324,Uurnog Uurnlimited,74.0,67.0,7.0,7.0
+325,Need for Speed Payback,61.0,83.0,22.0,-22.0
+326,Kathy Rain,77.0,73.0,4.0,4.0
+327,God of War (2005),94.0,92.0,2.0,2.0
+328,LEGO Batman 3: Beyond Gotham,74.0,80.0,6.0,-6.0
+329,Just Cause 4,68.0,66.0,2.0,2.0
+330,Pinball FX2,84.0,80.0,4.0,4.0
+331,BloodRayne 2,67.0,72.0,5.0,-5.0
+332,Gran Turismo 4,89.0,87.0,2.0,2.0
+333,Everything,78.0,75.0,3.0,3.0
+334,The Legend of Zelda: A Link Between Worlds,91.0,90.0,1.0,1.0
+335,Shadowgrounds,74.0,64.0,10.0,10.0
+336,Sang-Froid - Tales of Werewolves,79.0,75.0,4.0,4.0
+337,STAR OCEAN: INTEGRITY AND FAITHLESSNESS,58.0,75.0,17.0,-17.0
+338,Splice,70.0,69.0,1.0,1.0
+339,RUINER,78.0,82.0,4.0,-4.0
+340,Army Men RTS,67.0,65.0,2.0,2.0
+341,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,84.0,81.0,3.0,3.0
+342,Duskers,83.0,79.0,4.0,4.0
+343,Terrian Saga: KR-17,83.0,72.0,11.0,11.0
+344,The Sexy Brutale,83.0,80.0,3.0,3.0
+345,The Walking Dead: Season 1,92.0,66.0,26.0,26.0
+346,Firefall,60.0,70.0,10.0,-10.0
+347,Planetary Annihilation,62.0,70.0,8.0,-8.0
+348,Sonic Advance,85.0,90.0,5.0,-5.0
+349,Predator: Hunting Grounds,59.0,80.0,21.0,-21.0
+350,Battlefleet Gothic: Armada 2,77.0,68.0,9.0,9.0
+351,Marc Ecko's Getting Up: Contents Under Pressure,69.0,80.0,11.0,-11.0
+352,X-Men Arcade,67.0,80.0,13.0,-13.0
+353,Kingdoms and Castles,72.0,65.0,7.0,7.0
+354,Battlefield: Bad Company 2 - Vietnam,86.0,78.0,8.0,8.0
+355,Lara Croft and the Guardian of Light,82.0,83.0,1.0,-1.0
+356,Hostile Waters: Antaeus Rising,80.0,77.0,3.0,3.0
+357,Mario & Luigi: Partners in Time,86.0,81.0,5.0,5.0
+358,Blocks That Matter,72.0,70.0,2.0,2.0
+359,NaissanceE,66.0,75.0,9.0,-9.0
+360,Metroid Prime,97.0,78.0,19.0,19.0
+361,Heat Signature,79.0,74.0,5.0,5.0
+362,Her Majesty's SPIFFING,60.0,79.0,19.0,-19.0
+363,Rogue Stormers,68.0,69.0,1.0,-1.0
+364,FlatOut 4: Total Insanity,52.0,79.0,27.0,-27.0
+365,Tidalis,75.0,76.0,1.0,-1.0
+366,Star Wars: Battlefront,76.0,80.0,4.0,-4.0
+367,Wargame: European Escalation,81.0,81.0,0.0,0.0
+368,Overcooked! 2,82.0,80.0,2.0,2.0
+369,Gunpoint,83.0,68.0,15.0,15.0
+370,Sacred,74.0,81.0,7.0,-7.0
+371,Fallout 4: Wasteland Workshop,53.0,81.0,28.0,-28.0
+372,Phoenix Wright: Ace Attorney - Dual Destinies,83.0,88.0,5.0,-5.0
+373,Two Worlds II,76.0,77.0,1.0,-1.0
+374,Forza Horizon 3,88.0,67.0,21.0,21.0
+375,Disciples II: Rise of the Elves,80.0,86.0,6.0,-6.0
+376,The Crew,71.0,83.0,12.0,-12.0
+377,Patrician III,75.0,66.0,9.0,9.0
+378,Resident Evil 3,80.0,86.0,6.0,-6.0
+379,Uncharted 4: A Thief’s End,93.0,90.0,3.0,3.0
+380,Yesterday Origins,74.0,70.0,4.0,4.0
+381,Crowntakers,70.0,73.0,3.0,-3.0
+382,Dementium II HD,37.0,73.0,36.0,-36.0
+383,Slime Rancher,81.0,73.0,8.0,8.0
+384,The Red Strings Club,80.0,76.0,4.0,4.0
+385,Valkyrie Profile,81.0,76.0,5.0,5.0
+386,Stronghold HD,81.0,85.0,4.0,-4.0
+387,Medieval II: Total War,88.0,81.0,7.0,7.0
+388,Nancy Drew: Legend of the Crystal Skull,79.0,71.0,8.0,8.0
+389,F1 2010,84.0,66.0,18.0,18.0
+390,Outer Wilds,84.0,74.0,10.0,10.0
+391,Gray Matter,72.0,71.0,1.0,1.0
+392,Nether: Resurrected,57.0,64.0,7.0,-7.0
+393,EyeToy: Play,80.0,80.0,0.0,0.0
+394,Battlefleet Gothic: Armada,77.0,68.0,9.0,9.0
+395,RIFT,84.0,83.0,1.0,1.0
+396,Zenith,57.0,74.0,17.0,-17.0
+397,Windforge,53.0,78.0,25.0,-25.0
+398,JumpJet Rex,76.0,79.0,3.0,-3.0
+399,The Witcher 3: Game of the Year,92.0,71.0,21.0,21.0
+400,Jet Li: Rise to Honor,68.0,84.0,16.0,-16.0
+401,Zombie Driver,60.0,80.0,20.0,-20.0
+402,Wargame: Red Dragon,78.0,81.0,3.0,-3.0
+403,Stick it to The Man!,83.0,75.0,8.0,8.0
+404,Fallout 4,84.0,89.0,5.0,-5.0
+405,Black Mirror II,71.0,79.0,8.0,-8.0
+406,Titan Quest: Immortal Throne,80.0,66.0,14.0,14.0
+407,ROME: Total War,88.0,83.0,5.0,5.0
+408,Rocksmith,78.0,75.0,3.0,3.0
+409,Takedown: Red Sabre,34.0,76.0,42.0,-42.0
+410,Age of Empires II HD,68.0,65.0,3.0,3.0
+411,Drakensang,75.0,61.0,14.0,14.0
+412,LEGO Jurassic World,72.0,74.0,2.0,-2.0
+413,World of Warcraft: Cataclysm,90.0,81.0,9.0,9.0
+414,F1 2014,61.0,80.0,19.0,-19.0
+415,Avernum: Escape From the Pit,76.0,73.0,3.0,3.0
+416,Baldur's Gate II: Shadows of Amn,95.0,75.0,20.0,20.0
+417,Hunt: Showdown,79.0,80.0,1.0,-1.0
+418,FlatOut 2,76.0,85.0,9.0,-9.0
+419,Bad Day L.A.,28.0,78.0,50.0,-50.0
+420,Total War: Shogun 2 - Fall of the Samurai,86.0,86.0,0.0,0.0
+421,Platformines,67.0,79.0,12.0,-12.0
+422,Shaun White Snowboarding,61.0,78.0,17.0,-17.0
+423,STAR WARS Knights of the Old Republic II - The Sith Lords,85.0,81.0,4.0,4.0
+424,Fallout 4 VR,78.0,70.0,8.0,8.0
+425,Redshirt,62.0,68.0,6.0,-6.0
+426,Forts,74.0,72.0,2.0,2.0
+427,FINAL FANTASY XV: EPISODE GLADIOLUS,59.0,66.0,7.0,-7.0
+428,Star Conflict,75.0,72.0,3.0,3.0
+429,Sekiro: Shadows Die Twice,90.0,80.0,10.0,10.0
+430,War for the Overworld,65.0,70.0,5.0,-5.0
+431,Blade Symphony,72.0,80.0,8.0,-8.0
+432,Kingdom: Classic,74.0,81.0,7.0,-7.0
+433,Kid Icarus: Uprising,83.0,78.0,5.0,5.0
+434,Minimum,69.0,73.0,4.0,-4.0
+435,Crazy Machines 2,72.0,75.0,3.0,-3.0
+436,Teslagrad,77.0,72.0,5.0,5.0
+437,Conflict: Desert Storm 2 - Back to Baghdad,69.0,80.0,11.0,-11.0
+438,Call of Duty 2,86.0,91.0,5.0,-5.0
+439,The Legend of Zelda: Ocarina of Time,99.0,71.0,28.0,28.0
+440,Sunless Skies,87.0,66.0,21.0,21.0
+441,Cat Quest,77.0,70.0,7.0,7.0
+442,Murdered: Soul Suspect,59.0,59.0,0.0,0.0
+443,Ys SEVEN,80.0,61.0,19.0,19.0
+444,Secrets of Rætikon,58.0,79.0,21.0,-21.0
+445,Sherlock Holmes: The Silver Earring,68.0,71.0,3.0,-3.0
+446,Frozen Synapse Prime,83.0,85.0,2.0,-2.0
+447,Alien: Isolation,81.0,72.0,9.0,9.0
+448,The Golf Club 2,72.0,76.0,4.0,-4.0
+449,They Are Billions,74.0,75.0,1.0,-1.0
+450,Mario Tennis Aces,75.0,83.0,8.0,-8.0
+451,Thronebreaker: The Witcher Tales,84.0,77.0,7.0,7.0
+452,Cave Story+,83.0,85.0,2.0,-2.0
+453,Bionic Commando,69.0,70.0,1.0,-1.0
+454,Shin Megami Tensei: Strange Journey,80.0,85.0,5.0,-5.0
+455,Company of Heroes: Opposing Fronts,87.0,84.0,3.0,3.0
+456,MISSING: An Interactive Thriller - Episode One,63.0,75.0,12.0,-12.0
+457,Jagged Alliance - Back in Action,62.0,66.0,4.0,-4.0
+458,Sudden Strike 4,77.0,80.0,3.0,-3.0
+459,Wolfenstein 2: The New Colossus,86.0,88.0,2.0,-2.0
+460,Unreal 2: The Awakening,75.0,73.0,2.0,2.0
+461,For Honor,76.0,72.0,4.0,4.0
+462,Citizens of Earth,66.0,72.0,6.0,-6.0
+463,Ninja Gaiden (2004),91.0,80.0,11.0,11.0
+464,Five Nights at Freddy's 3,68.0,62.0,6.0,6.0
+465,There Came an Echo,58.0,75.0,17.0,-17.0
+466,No More Heroes,83.0,80.0,3.0,3.0
+467,FIFA 20,68.0,80.0,12.0,-12.0
+468,Dragon Ball Z: Budokai Tenkaichi,72.0,73.0,1.0,-1.0
+469,Dead Rising 2: Off the Record,66.0,74.0,8.0,-8.0
+470,A Golden Wake,68.0,75.0,7.0,-7.0
+471,UFO: Afterlight,71.0,75.0,4.0,-4.0
+472,The Messenger (2018),84.0,78.0,6.0,6.0
+473,King Arthur II: The Role-Playing Wargame,66.0,75.0,9.0,-9.0
+474,Small Radios Big Televisions,67.0,65.0,2.0,2.0
+475,Punch Club,73.0,73.0,0.0,0.0
+476,RoboBlitz,80.0,66.0,14.0,14.0
+477,The Outer Worlds,80.0,71.0,9.0,9.0
+478,Minecraft,83.0,70.0,13.0,13.0
+479,Jet Set Radio,94.0,90.0,4.0,4.0
+480,They Bleed Pixels,74.0,72.0,2.0,2.0
+481,MotoGP 14,76.0,66.0,10.0,10.0
+482,Closure,78.0,75.0,3.0,3.0
+483,Etherlords II,78.0,90.0,12.0,-12.0
+484,Full Spectrum Warrior: Ten Hammers,70.0,77.0,7.0,-7.0
+485,BattleBlock Theater,85.0,79.0,6.0,6.0
+486,Foul Play,69.0,69.0,0.0,0.0
+487,Batman: The Enemy Within,68.0,77.0,9.0,-9.0
+488,SHIFT 2 UNLEASHED,84.0,66.0,18.0,18.0
+489,LEGO The Lord of the Rings,80.0,80.0,0.0,0.0
+490,1001 Spikes,80.0,69.0,11.0,11.0
+491,Braid,90.0,85.0,5.0,5.0
+492,The Elder Scrolls Online,71.0,81.0,10.0,-10.0
+493,Sid Meier's Starships,64.0,68.0,4.0,-4.0
+494,Sid Meier's Civilization V,90.0,85.0,5.0,5.0
+495,Slender: The Arrival,65.0,70.0,5.0,-5.0
+496,Thomas Was Alone,77.0,68.0,9.0,9.0
+497,Dragon Age: Origins Awakening,82.0,91.0,9.0,-9.0
+498,MDK 2,83.0,87.0,4.0,-4.0
+499,Rollers of the Realm,68.0,74.0,6.0,-6.0
+500,Persona 4 Arena,84.0,73.0,11.0,11.0
+501,Impossible Creatures,72.0,77.0,5.0,-5.0
+502,Splatoon 2: Octo Expansion,82.0,88.0,6.0,-6.0
+503,Halo: Combat Evolved Anniversary,80.0,81.0,1.0,-1.0
+504,Contagion,62.0,68.0,6.0,-6.0
+505,Deus Ex 2: Invisible War,80.0,90.0,10.0,-10.0
+506,Ghostbusters: The Video Game Remastered,68.0,80.0,12.0,-12.0
+507,Darwinia,84.0,69.0,15.0,15.0
+508,NecroVision,63.0,73.0,10.0,-10.0
+509,Hard West,73.0,79.0,6.0,-6.0
+510,Portal 2,95.0,79.0,16.0,16.0
+511,Mars: War Logs,59.0,79.0,20.0,-20.0
+512,Grand Theft Auto: Liberty City Stories,78.0,90.0,12.0,-12.0
+513,Endless Space 2,82.0,86.0,4.0,-4.0
+514,Bejeweled 2,74.0,80.0,6.0,-6.0
+515,Hand of Fate,78.0,80.0,2.0,-2.0
+516,Override: Mech City Brawl,64.0,69.0,5.0,-5.0
+517,Aurion: Legacy of the Kori-Odan,69.0,74.0,5.0,-5.0
+518,Doki Doki Literature Club!,78.0,67.0,11.0,11.0
+519,Halo 2,84.0,81.0,3.0,3.0
+520,Tearaway Unfolded,81.0,74.0,7.0,7.0
+521,Ember,70.0,73.0,3.0,-3.0
+522,The Marvellous Miss Take,69.0,74.0,5.0,-5.0
+523,James Bond 007: Nightfire (2002),59.0,71.0,12.0,-12.0
+524,Pacific Storm,67.0,73.0,6.0,-6.0
+525,Bloodline Champions,79.0,76.0,3.0,3.0
+526,World of Warcraft: Battle for Azeroth,79.0,81.0,2.0,-2.0
+527,0RBITALIS,73.0,74.0,1.0,-1.0
+528,inMomentum,59.0,79.0,20.0,-20.0
+529,Brink,70.0,78.0,8.0,-8.0
+530,Shadowgrounds Survivor,79.0,64.0,15.0,15.0
+531,Limbo,88.0,90.0,2.0,-2.0
+532,Dishonored: Death of the Outsider,83.0,86.0,3.0,-3.0
+533,Worms Reloaded,79.0,81.0,2.0,-2.0
+534,Age of Empires,83.0,73.0,10.0,10.0
+535,Atlas Reactor,81.0,82.0,1.0,-1.0
+536,Return Of The Obra Dinn,88.0,81.0,7.0,7.0
+537,Skies of Arcadia,93.0,87.0,6.0,6.0
+538,Destiny 2: Curse of Osiris,59.0,68.0,9.0,-9.0
+539,Ys Origin,76.0,62.0,14.0,14.0
+540,GUN,76.0,78.0,2.0,-2.0
+541,Desktop Dungeons,82.0,78.0,4.0,4.0
+542,Slain: Back from Hell,74.0,80.0,6.0,-6.0
+543,Konung 2,35.0,75.0,40.0,-40.0
+544,Sid Meier's Pirates!,88.0,74.0,14.0,14.0
+545,Assassin's Creed: Bloodlines,63.0,78.0,15.0,-15.0
+546,Crimzon Clover: World Ignition,85.0,76.0,9.0,9.0
+547,The Chronicles of Riddick: Assault on Dark Athena,81.0,86.0,5.0,-5.0
+548,God Mode,58.0,66.0,8.0,-8.0
+549,Long Live The Queen,67.0,77.0,10.0,-10.0
+550,Ground Control Anthology,86.0,77.0,9.0,9.0
+551,The Fidelio Incident,69.0,62.0,7.0,7.0
+552,Rise of the Tomb Raider,86.0,82.0,4.0,4.0
+553,Diluvion,66.0,76.0,10.0,-10.0
+554,Deus Ex: Mankind Divided,83.0,74.0,9.0,9.0
+555,Fly'N,80.0,61.0,19.0,19.0
+556,Divinity: Original Sin,87.0,77.0,10.0,10.0
+557,DiRT Rally,86.0,83.0,3.0,3.0
+558,Sherlock Holmes versus Jack the Ripper,73.0,81.0,8.0,-8.0
+559,CODE VEIN,72.0,72.0,0.0,0.0
+560,Lume,69.0,70.0,1.0,-1.0
+561,Far Cry 3,88.0,80.0,8.0,8.0
+562,Arx Fatalis,77.0,85.0,8.0,-8.0
+563,Bohemian Killing,55.0,81.0,26.0,-26.0
+564,Anomaly Defenders,70.0,75.0,5.0,-5.0
+565,The Jackbox Party Pack 6,75.0,80.0,5.0,-5.0
+566,ZOMBI,65.0,79.0,14.0,-14.0
+567,Fire Emblem Fates: Birthright,86.0,81.0,5.0,5.0
+568,Battlezone,66.0,69.0,3.0,-3.0
+569,Call of Duty: WWII,77.0,73.0,4.0,4.0
+570,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,76.0,76.0,0.0,0.0
+571,Shu,85.0,70.0,15.0,15.0
+572,Poker Night 2,75.0,80.0,5.0,-5.0
+573,Call of Duty: Modern Warfare 3,85.0,86.0,1.0,-1.0
+574,Tales of Vesperia: Definitive Edition,81.0,82.0,1.0,-1.0
+575,Back to the Future: The Game,74.0,70.0,4.0,4.0
+576,SUPERHOT VR,85.0,66.0,19.0,19.0
+577,Tomb Raider: Definitive Edition,86.0,78.0,8.0,8.0
+578,Police Stories,75.0,78.0,3.0,-3.0
+579,Lara Croft and the Temple of Osiris,73.0,83.0,10.0,-10.0
+580,Test Drive Unlimited 2,72.0,79.0,7.0,-7.0
+581,Resident Evil 7: Biohazard,85.0,77.0,8.0,8.0
+582,Gemini: Heroes Reborn,54.0,63.0,9.0,-9.0
+583,PixelJunk Monsters Ultimate,72.0,80.0,8.0,-8.0
+584,League of Legends,78.0,76.0,2.0,2.0
+585,Imperator: Rome,76.0,74.0,2.0,2.0
+586,Clandestine,69.0,62.0,7.0,7.0
+587,Total War: ROME II - Emperor Edition,76.0,68.0,8.0,8.0
+588,SWORD ART ONLINE: Fatal Bullet,66.0,65.0,1.0,1.0
+589,Rogue Galaxy,83.0,76.0,7.0,7.0
+590,Audiosurf 2,76.0,90.0,14.0,-14.0
+591,STAR WARS: The Force Unleashed II,59.0,61.0,2.0,-2.0
+592,Insurgency: Sandstorm,78.0,80.0,2.0,-2.0
+593,Fire Emblem: Shadow Dragon,81.0,81.0,0.0,0.0
+594,Hearts of Iron 2 Complete,83.0,76.0,7.0,7.0
+595,Clutch,51.0,72.0,21.0,-21.0
+596,World War Z (2019),70.0,66.0,4.0,4.0
+597,Soldiers: Heroes of World War II,77.0,73.0,4.0,4.0
+598,Arizona Sunshine,81.0,75.0,6.0,6.0
+599,Puzzle Agent 2,63.0,68.0,5.0,-5.0
+600,Assassin's Creed Unity,71.0,80.0,9.0,-9.0
+601,FINAL FANTASY TYPE-0 HD,69.0,62.0,7.0,7.0
+602,F1 2018,84.0,81.0,3.0,3.0
+603,Fallout 4 - Far Harbor,77.0,80.0,3.0,-3.0
+604,STEINS;GATE ELITE,86.0,76.0,10.0,10.0
+605,Helldorado,65.0,78.0,13.0,-13.0
+606,GoldenEye 007 (1997),96.0,88.0,8.0,8.0
+607,Journey,92.0,85.0,7.0,7.0
+608,POSTAL 2,59.0,76.0,17.0,-17.0
+609,Grand Theft Auto IV: The Ballad of Gay Tony,88.0,80.0,8.0,8.0
+610,King's Bounty: Armored Princess,82.0,74.0,8.0,8.0
+611,Tenchu Z,56.0,76.0,20.0,-20.0
+612,Neverwinter,74.0,72.0,2.0,2.0
+613,Offspring Fling!,79.0,81.0,2.0,-2.0
+614,BloodRayne,65.0,72.0,7.0,-7.0
+615,A Game of Dwarves,60.0,73.0,13.0,-13.0
+616,White Night,68.0,66.0,2.0,2.0
+617,RAGE 2,71.0,71.0,0.0,0.0
+618,Devil May Cry 3: Dante's Awakening,78.0,80.0,2.0,-2.0
+619,Octopath Traveler,82.0,80.0,2.0,2.0
+620,007 Legends,37.0,78.0,41.0,-41.0
+621,Sacrifice,89.0,77.0,12.0,12.0
+622,Life is Feudal: Your Own,63.0,71.0,8.0,-8.0
+623,Gears of War,90.0,78.0,12.0,12.0
+624,Elemental: Fallen Enchantress,78.0,82.0,4.0,-4.0
+625,Vampire: The Masquerade - Redemption,74.0,70.0,4.0,4.0
+626,Bulletstorm,83.0,82.0,1.0,1.0
+627,Kairo,76.0,73.0,3.0,3.0
+628,Cold Fear,66.0,66.0,0.0,0.0
+629,King's Bounty: Warriors of the North,74.0,74.0,0.0,0.0
+630,Lords of the Realm II,77.0,78.0,1.0,-1.0
+631,Metal Gear Solid 3: Snake Eater,84.0,80.0,4.0,4.0
+632,Kirby: Canvas Curse,86.0,90.0,4.0,-4.0
+633,Crazy Machines 3,71.0,74.0,3.0,-3.0
+634,Shantae: Half-Genie Hero,76.0,68.0,8.0,8.0
+635,Resident Evil Code: Veronica,72.0,91.0,19.0,-19.0
+636,LEGO The Hobbit,70.0,74.0,4.0,-4.0
+637,Monster Prom,73.0,73.0,0.0,0.0
+638,ARMS,77.0,88.0,11.0,-11.0
+639,Act of War: Direct Action,82.0,70.0,12.0,12.0
+640,Letter Quest: Grimm's Journey,73.0,69.0,4.0,4.0
+641,Made Man,45.0,78.0,33.0,-33.0
+642,Budget Cuts,76.0,69.0,7.0,7.0
+643,Verdun,70.0,74.0,4.0,-4.0
+644,Perception,56.0,76.0,20.0,-20.0
+645,Evoland 2,74.0,73.0,1.0,1.0
+646,Mantis Burn Racing,71.0,66.0,5.0,5.0
+647,Gravity Rush 2,80.0,75.0,5.0,5.0
+648,Forza Horizon 4 LEGO Speed Champions,77.0,79.0,2.0,-2.0
+649,Astebreed,86.0,75.0,11.0,11.0
+650,Valdis Story: Abyssal City,83.0,81.0,2.0,2.0
+651,Left 4 Dead 2,89.0,58.0,31.0,31.0
+652,Ice Age 3 Dawn of the Dinosaurs,59.0,74.0,15.0,-15.0
+653,SOMA,84.0,76.0,8.0,8.0
+654,Danger Zone,64.0,72.0,8.0,-8.0
+655,Lovely Planet,61.0,75.0,14.0,-14.0
