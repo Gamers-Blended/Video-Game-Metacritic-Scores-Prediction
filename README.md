@@ -1,5 +1,6 @@
 # Video-Game-Metacritic-Scores-Prediction
  An attempt to predict Metacritic scores of video games using several machine learning models in Python. <br>
+ A complete walkthrough of the process can be found in each of the 5 notebooks.
  
  ## Contents
  1. Gathering Data from RWAG API
@@ -11,6 +12,7 @@
 
 ## Part 1: Gathering Data From RWAG API
 Using the request library, make API calls from the [RWAG database](https://rawg.io/apidocs) to collect video game data.
+**Note: Extract the data.rar file if needed (csv file is too large to push to GitHub)**
 
 ## Part 2: Data Cleaning
 Examine the raw data, and trim it down such that the dataset only contains useful information for analysis and prediction. <br>
